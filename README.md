@@ -1,5 +1,5 @@
 ## How It Works
--This runs based on the file name coded into the check.
+-This runs based on the file name coded into the check. <br>
 -The output will be "File FILENAME is hidden: (true or false).
 
 ## Future Enhancements
