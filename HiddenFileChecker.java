@@ -17,7 +17,7 @@ public class HiddenFileChecker
 		{
 			Path currentDirandFile = Paths.get("./abc123.txt");
 			System.out.println("File " + currentDirandFile + " is hidden: " + Files.isHidden(currDirAndFile));
-		}catch(IOException ioe)
+		} catch(IOException ioe)
 		{
 			System.out.println("Exception: " + ioe);
 		}
